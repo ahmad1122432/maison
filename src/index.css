@@ -1,0 +1,12 @@
+@import "tailwindcss";
+:root {
+  --font-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-serif: Georgia, "Times New Roman", serif;
+}
+
+body {
+  background-color: #fff;
+  color: #171717;
+  -webkit-font-smoothing: antialiased;
+  font-family: var(--font-sans);
+}
